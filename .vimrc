@@ -1,0 +1,11 @@
+syntax on
+set number
+set guifont=Fixedsys:h12:cANSI:qDRAFT
+set autoindent
+set expandtab
+set shiftround
+set shiftwidth=4
+set smarttab
+set tabstop=4
+set hlsearch
+set relativenumber
