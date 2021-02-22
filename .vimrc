@@ -1,6 +1,6 @@
 syntax on
 set number
-set guifont=Fixedsys:h12:cANSI:qDRAFT
+set guifont=Fixedsys:h11:cANSI:qDRAFT
 set autoindent
 set expandtab
 set shiftround
