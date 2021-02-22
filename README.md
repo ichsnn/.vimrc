@@ -1,2 +1,2 @@
 # .vimrc
-Edit anyway
+//Change anytime
