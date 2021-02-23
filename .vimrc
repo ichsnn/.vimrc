@@ -1,6 +1,6 @@
 syntax on
 set number
-set guifont=Fixedsys:h11:cANSI:qDRAFT
+set guifont=Fixedsys:h12:cANSI:qDRAFT
 set autoindent
 set expandtab
 set shiftround
@@ -9,3 +9,4 @@ set smarttab
 set tabstop=4
 set hlsearch
 set relativenumber
+set backspace=indent,eol,start
